@@ -1,7 +1,8 @@
 export default function Home() {
   return (
     <div>
-      <div>1 master </div>
+      <div>1st master commit </div>
+      <div>2nd master commit </div>
       <div></div>
     </div>
   );
