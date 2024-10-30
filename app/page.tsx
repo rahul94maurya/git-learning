@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       <div>1st master commit </div>
       <div>2nd master commit </div>
-      <div></div>
+      <div>1st feature commit</div>
     </div>
   );
 }
